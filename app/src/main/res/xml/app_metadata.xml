@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AppFunctionAppMetadata
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:appfn="http://schemas.android.com/apk/androidx.appfunctions"
+    appfn:description="This app manages a photo gallery. It can retrieve the user's selected profile picture URI." />
